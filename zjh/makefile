@@ -1,0 +1,2 @@
+submake:
+	cd client && $(MAKE)
